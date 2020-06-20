@@ -1,2 +1,2 @@
-# BootstrapHW2
-Creating a new repository to revert to a specific commit
+# BootstrapHW
+Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
