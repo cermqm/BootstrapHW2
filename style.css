@@ -37,12 +37,13 @@ h2 span {
     padding: 0px 15px 15px 15px;
 }
 
-#head-navbar {
+
+/* #head-navbar {
     width: 100%;
     white-space: nowrap;
     display: inline-block;
     overflow: hidden;
-}
+} */
 
 .nav>li {
     display: inline-block;
@@ -72,11 +73,12 @@ h2 span {
 
 /* Sticky footer css */
 
-.container {
+
+/* .container {
     width: auto;
     max-width: 680px;
     padding: 0 15px;
-}
+} */
 
 .footer {
     background-color: #f5f5f5;
